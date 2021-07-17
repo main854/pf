@@ -1,0 +1,42 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #ffffff;}
+
+
+header{height: 6.0rem;text-align: center;background-color: #272727;}
+header > .logo{padding-top: 1.6rem;}
+
+section > .keyvisual{background-image: url('../img/m_02.png');text-align: center;height: 64.0rem;}
+
+section > .profile{background-color: #272727;height: 78rem;}
+
+.pf_01, .pf_02, .pf_03{text-align: center;}
+
+section > .profile > .pf_01{padding-top: 3.3rem;}
+
+#pr{height: 7rem;width: 100%;background-size: cover;background-attachment: fixed;overflow: hidden;}
+.p1{background-image: url('../img/m_pf_tit_bg.png');}
+.posi{margin-top: 1.8rem;text-align: center;}
+
+.pf1, .pf2, .pf3, .pf4, .pf5, .pf6, .pf7{text-align: center;}
+
+section > .pf1{background-image: url('../img/m_web_bg.png');background-color: #ffffff;padding-top: 1.2rem;height: 153.2rem;}
+section > .pf2{background-image: url('../img/m_book_bg.png');background-color: #272727;padding-top: 1.2rem;height: 129.2rem;}
+section > .pf3{background-image: url('../img/m_new_bg.png');background-color: #272727;padding-top: 1.2rem;height: 146.6rem;}
+section > .pf4{background-color: #ffffff;padding-top: 1.2rem;height: 264.9rem;}
+section > .pf5{background-color: #ffffff;padding-top: 1.2rem;height: 192.5rem;}
+section > .pf6{background-color: #C7C0A7;height: 83.8rem;}
+section > .pf7{background-color: #7B987B;height: 76.8rem;}
+
+section > .pf1 > img{margin-top: 1.5rem;}
+section > .pf2 > img{margin-top: 1.5rem;}
+section > .pf3 > img{margin-top: 1.5rem;}
+section > .pf4 > img{margin-top: 1.5rem;}
+section > .pf5 > img{margin-top: 1.5rem;}
+section > .pf6 > img{margin-top: 1.5rem;}
+section > .pf7 > img{margin-top: 1.8rem;}
+
+footer{background-color: #272727;height: 12.1rem;text-align: center;}
+footer > img{margin-top: 2.2rem;}
